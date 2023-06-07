@@ -1,5 +1,6 @@
 # isletim-main
 HALK SESİ
+
 HalkSesi, sosyal konular ve halk sorunları
 hakkında kamuoyu görüşü toplamak için özel
 olarak tasarlanmış bir çevrimiçi anket
