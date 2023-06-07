@@ -7,6 +7,7 @@ olarak tasarlanmış bir çevrimiçi anket
 çözümüdür.
 
 
+
 Semakhat Azamatkhuzhaeva 201816071
 Hagar Hamad 191816403
 Kunsuluu Dzhanyshbekova 201816073
